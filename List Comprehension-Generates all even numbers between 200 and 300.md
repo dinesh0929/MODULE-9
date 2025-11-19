@@ -23,5 +23,6 @@ To write a Python class-based program that generates all even numbers between 20
 Add Code Here
 
 ## OUTPUT:
+![Uploading image.png…]()
 
 ## RESULT:
